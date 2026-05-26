@@ -1,0 +1,11 @@
+{
+  "network": {
+    "subnet": "192.168.1.0/24",
+    "timeout_seconds": 2,
+    "verbose": false
+  },
+  "output": {
+    "save_results": true,
+    "results_folder": "results"
+  }
+}

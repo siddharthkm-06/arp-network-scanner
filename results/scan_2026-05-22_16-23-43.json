@@ -1,0 +1,21 @@
+{
+  "scan_time": "2026-05-22 16:23:43",
+  "total_devices": 3,
+  "devices": [
+    {
+      "ip": "192.168.1.1",
+      "mac": "f0:09:0d:87:80:d8",
+      "vendor": "TP-Link Systems Inc"
+    },
+    {
+      "ip": "192.168.1.103",
+      "mac": "ea:56:0c:6e:d7:93",
+      "vendor": "Unknown"
+    },
+    {
+      "ip": "192.168.1.105",
+      "mac": "5c:60:ba:79:e3:ae",
+      "vendor": "HP Inc."
+    }
+  ]
+}
